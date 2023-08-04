@@ -15,14 +15,6 @@ graph TD;
     Java-->Json;
     c++-->Json;
     Json-->Java;
-    Json-->c++;
+    Json-->c++;  
 ```
 
-
-```mermaid
-graph TD;
-    Java-->Json;
-    c++-->xml;
-    xml-->Java;
-    xml-->c++;
-```
