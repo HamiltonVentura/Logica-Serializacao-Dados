@@ -7,3 +7,4 @@ A serialização de dados é um processo fundamental na programação, que envol
 de dados complexas em um formato que possa ser facilmente armazenado, transmitido ou compartilhado entre
 diferentes sistemas. No contexto deste guia, abordaremos a serialização de dados em linguagem simples e direta,
 adequada para desenvolvedores de todos os níveis de experiência.
+
