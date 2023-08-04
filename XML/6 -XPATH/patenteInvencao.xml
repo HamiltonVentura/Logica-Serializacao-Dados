@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SolicitaPatente>
+    <licitacao>   
+        <Usuario>Hamilton Ventura Rodrigues</Usuario>
+        <CodigoUsuario>1544</CodigoUsuario>
+        <NivelAcesso>4</NivelAcesso>
+        <Categoria>Inventor</Categoria>
+        <Pedido>
+            <tipo>Modelo de Utilidade</tipo>
+            <codigoSolicitacao>MU-01</codigoSolicitacao>
+            <AnalistaVinculado>Ana</AnalistaVinculado>
+        </Pedido>
+        <dataInicio>02-10-2023</dataInicio>
+        <horario>14:30</horario>
+        <valor>150</valor>
+    </licitacao>
+
+    <licitacao>   
+        <Usuario>Hamilton Ventura Rodrigues</Usuario>
+        <CodigoUsuario>1544</CodigoUsuario>
+        <NivelAcesso>4</NivelAcesso>
+        <Categoria>Inventor</Categoria>
+        <Pedido>
+            <tipo>Patente de Invenção</tipo>
+            <codigoSolicitacao>PI-01</codigoSolicitacao>
+            <AnalistaVinculado>Jão</AnalistaVinculado>
+            <valor>150</valor>
+        </Pedido>
+        <dataInicio>02-10-2023</dataInicio>
+        <horario>17:30</horario>
+    </licitacao>
+
+   <licitacao>   
+        <Usuario>Hamilton Ventura Rodrigues</Usuario>
+        <CodigoUsuario>1544</CodigoUsuario>
+        <NivelAcesso>4</NivelAcesso>
+        <Categoria>Inventor</Categoria>
+        <Pedido>
+            <tipo>Modelo de Utilidade</tipo>
+            <codigoSolicitacao>MU-02</codigoSolicitacao>
+            <AnalistaVinculado>Ana</AnalistaVinculado>
+        </Pedido>
+        <dataInicio>02-10-2023</dataInicio>
+        <horario>14:30</horario>
+        <valor>150</valor>
+    </licitacao>
+
+</SolicitaPatente>

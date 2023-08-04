@@ -1,0 +1,31 @@
+
+#comentário
+#outra linha de comentário
+
+--- 
+- dados:
+    -  nome : João da Neves
+    -  idade: 31
+    -  filmes:
+        -  Efeito Borboleta
+        -  Brilho Eterno de uma mente sem lembrança
+        -  Vingador do futuro 
+        -  Exterminador do futuro 
+        -  tropas estelares
+    -  series:
+        -  Terra Conflito final 
+        -  Night Visions 
+        -  Clube do terror
+        -  Small Ville
+        -  Lost
+    -  anime:
+        -  naruto
+        -  pokemon
+        -  hunterxhunter
+    -  musicas:
+        -  Gabriel Pensador
+        -  frejat
+        -  jorge Versilo 
+  
+             
+...

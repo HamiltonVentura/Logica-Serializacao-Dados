@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="livro.xsl" type="text/xsl"?>
+<biblioteca>
+<!-- exemplo de criação de um XML-->
+	<secao>
+		<nome>Homem a procura de sismesmo</nome>
+		<autor>Rollo may </autor>
+		<ano> 1988 </ano>
+		<isbn> 34234-a</isbn>
+		<status>Emprestado</status>
+	</secao>
+	<secao>
+		<nome>Deus e Eu</nome>
+		<autor>Hamilton </autor>
+		<ano> 1988 </ano>
+		<isbn> 34234-a</isbn>
+		<status>Emprestado</status>
+	</secao>
+	<secao>
+		<nome>O Auto Engano</nome>
+		<autor>Eduardo Gianetti </autor>
+		<ano> 1988 </ano>
+		<isbn> 34234-a</isbn>
+		<status>Emprestado</status>
+	</secao>
+	<secao>
+  		<nome>A Arte da Felicidade: Um Manual para a Vida</nome>
+  		<autor>Dalai Lama</autor>
+  		<ano>1999</ano>
+  		<isbn>9788532513665</isbn>
+		<status>Emprestado</status>
+	</secao>
+	<secao>
+  		<nome>Inteligência Emocional: A Teoria Revolucionária que Redefine o que é Ser Inteligente</nome>
+ 		<autor>Daniel Goleman</autor>
+  		<ano>1995</ano>
+ 		<isbn>9788575420169</isbn>
+		<status>Emprestado</status>
+	</secao>
+	<secao>
+ 		<nome>A Coragem de Ser Imperfeito</nome>
+  		<autor>Brené Brown</autor>
+  		<ano>2011</ano>
+  		<isbn>9788532529147</isbn>
+		<status>Disponível</status>
+	</secao>
+
+
+</biblioteca>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="Usuario.xsl" type="text/xsl"?>
+<Usuarios>
+<!-- exemplo de criação de um XML-->
+    <secao>
+        <nome>João Silva</nome>
+        <idade>45</idade>
+        <ano>2009</ano>
+        <codigo>A-45</codigo>
+        <status>ativo</status>
+        <tipo>Analista</tipo>
+    </secao>
+    <secao>
+        <nome>Maria Santos</nome>
+        <idade>32</idade>
+        <ano>1988</ano>
+        <codigo>A-46</codigo>
+        <status>ativo</status>
+        <tipo>Analista</tipo>
+    </secao>
+    <secao>
+        <nome>Pedro Almeida</nome>
+        <idade>23</idade>
+        <ano>2004</ano>
+        <codigo>A-47</codigo>
+        <status>ativo</status>
+        <tipo>Analista</tipo>
+    </secao>
+        <secao>
+        <nome>João Pedro</nome>
+        <idade>45</idade>
+        <ano>2009</ano>
+        <codigo>A-45</codigo>
+        <status>ativo</status>
+        <tipo>Analista</tipo>
+    </secao>
+    <secao>
+        <nome>Silvio Santos</nome>
+        <idade>32</idade>
+        <ano>1988</ano>
+        <codigo>A-46</codigo>
+        <status>ativo</status>
+        <tipo>Analista</tipo>
+    </secao>
+    <secao>
+        <nome>Ana Cnahas</nome>
+        <idade>23</idade>
+        <ano>2007</ano>
+        <codigo>A-47</codigo>
+        <status>ativo</status>
+        <tipo>Analista</tipo>
+    </secao>
+    <!-- Adicione quantas seções desejar -->
+</Usuarios>

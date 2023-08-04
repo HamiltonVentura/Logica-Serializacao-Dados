@@ -1,0 +1,21 @@
+
+{
+    
+    "nome" : "joao das neves",
+    "idade": "31",
+    "endereco":"Ruado clovis",
+    "filmes":{
+        "titulos":[
+                    "Efeito Borboleta",
+                    "O Vingador do futuro",
+                    "Brilho eterno de uma mente sem lembranças",
+                    "O quinto Elemento"
+                    ],
+        "atores":[
+            "Ashton Kucher",
+            "Bruce Willis",
+            "Jessica Alba",
+            "Jin Carrie"
+        ]
+    }    
+}
