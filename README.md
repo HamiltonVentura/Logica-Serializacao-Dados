@@ -8,3 +8,21 @@ de dados complexas em um formato que possa ser facilmente armazenado, transmitid
 diferentes sistemas. No contexto deste guia, abordaremos a serialização de dados em linguagem simples e direta,
 adequada para desenvolvedores de todos os níveis de experiência.
 
+
+
+```mermaid
+graph TD;
+    Java-->Json;
+    c++-->Json;
+    Json-->Java;
+    Json-->c++;
+```
+
+
+```mermaid
+graph TD;
+    Java-->Json;
+    c++-->xml;
+    xml-->Java;
+    xml-->c++;
+```
