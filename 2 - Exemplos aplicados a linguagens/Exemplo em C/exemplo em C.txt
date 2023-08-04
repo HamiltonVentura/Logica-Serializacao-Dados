@@ -1,0 +1,2 @@
+exemplo em C 
+manipulação de arquivos e serialização dedados
