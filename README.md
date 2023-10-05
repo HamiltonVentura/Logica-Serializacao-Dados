@@ -15,6 +15,8 @@ graph TD;
     Java-->Json;
     c++-->Json;
     Json-->Java;
-    Json-->c++;  
+    Json-->c++;
+    Json-->Lua;
+    Json-->Javascript
 ```
 
